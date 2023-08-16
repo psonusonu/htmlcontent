@@ -1,0 +1,21 @@
+input tag is  going to carry multi attributes 
+*type attribute
+*place holder
+*name
+*value
+-------------
+type attribute values
+* number
+*text
+*date
+*email
+*password
+*radio
+*check box
+*submit
+*reset
+*button
+---------------------
+*place holder carrys a dummy msg
+*name attribute helps to give unique identity
+*value attribute carries the contet of the input flied
